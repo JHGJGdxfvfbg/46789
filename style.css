@@ -9,3 +9,19 @@
     border: 1px solid black;
     outline: 0;
 }
+
+.containers {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    width: 36%;
+    height: 50%;
+    background-color: yellow;
+    border: 10px double red;
+    text-align: center;
+    padding: 30px;
+}
