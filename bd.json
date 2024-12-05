@@ -1,5 +1,44 @@
 {
     "user": [
-        
+        {
+            "id": 1,
+            "name": "Andrey",
+            "discription": "New brands and high price",
+            "author_id": 2,
+            "price": 900
+        },
+        {
+            "id": 2,
+            "name": "Dima",
+            "discription": "Gaming devices",
+            "author_id": 5,
+            "price": 900
+        },
+        {
+            "id": 3,
+            "name": "Ihor",
+            "discription": "The coolest headphones",
+            "author_id": 3,
+            "price": 900
+        },
+        {
+            "id": 4,
+            "name": "Bogdan",
+            "discription": "High quality of products",
+            "author_id": 1,
+            "price": 900
+        },
+        {
+            "id": 5,
+            "name": "Denus",
+            "discription": "ksdjhfsdk",
+            "author_id": 4,
+            "price": 900
+        },
+    ],
+    "products": [
+        {
+            
+        }
     ]
 }
