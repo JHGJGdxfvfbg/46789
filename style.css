@@ -10,11 +10,24 @@
     outline: 0;
 }
 
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
 .product {
     background-color: grey;
     padding: 20px;
     width: max-content;
     height: max-content;
+    text-align: center;
+    border: 4px double black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
 }
 
 .product img {
