@@ -9,3 +9,10 @@
     border: 1px solid black;
     outline: 0;
 }
+
+.product {
+    background-color: grey;
+    padding: 20px;
+    width: max-content;
+    height: max-content;
+}
