@@ -41,24 +41,28 @@
             "name": "Arduino UNO",
             "discription": "Main board for beginning",
             "id": 1,
+            "price": 1020,
             "image_url": "https://doc.arduino.ua/img/hardware/ArduinoUno_R3_Front.jpg"
         },
         {
             "name": "Liquid Display",
             "discription": "Liquid DIsplay for display information",
             "id": 2,
+            "price": 300,
             "image_url": "https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2018/07/i2c_LCD.jpg?resize=750%2C500&quality=100&strip=all&ssl=1"
         },
         {
             "name": "Arduino Leds x12",
             "discription": "12 leds with different colors",
             "id": 3,
+            "price": 140,
             "image_url": "https://images-eu.ssl-images-amazon.com/images/I/614vPNmpmuL._AC_UL600_SR600,600_.jpg"
         },
         {
             "name": "Module HR-101",
             "discription": "Module to display temperature",
             "id": 4,
+            "price": 180,
             "image_url": "https://5.imimg.com/data5/BR/BO/DR/SELLER-90002072/51xzpa1tcgl-sl1000--500x500.jpg"
         }
     ]

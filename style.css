@@ -34,3 +34,17 @@
     width: 200px;
     height: 200px;
 }
+
+.product button {
+    font-size: 30px;
+    padding: 8px 24px;
+    background-color: orange;
+    color: white;
+    cursor: pointer;
+    transition-duration: 0.2s;
+}
+.product button:hover {
+    background-color: green;
+    font-size: 34px;
+    box-shadow: 0 0 20px black;
+}
