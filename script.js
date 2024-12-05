@@ -1,4 +1,4 @@
-const URL = 'https://jsonhost.com/json/ebbaececb8443b2670dc53e130b240e1';
+const URL = 'https://api.npoint.io/8758bff9f8042ca8f3aa/';
 
 $.ajax(URL + "/products", {
     dataType: "json",

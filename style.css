@@ -16,3 +16,8 @@
     width: max-content;
     height: max-content;
 }
+
+.product img {
+    width: 200px;
+    height: 200px;
+}
