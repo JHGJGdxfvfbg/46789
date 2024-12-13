@@ -10,6 +10,17 @@
     outline: 0;
 }
 
+ul,
+ol {
+    list-style: none;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
 .container {
     display: flex;
     flex-wrap: wrap;
@@ -47,4 +58,35 @@
     background-color: green;
     font-size: 34px;
     box-shadow: 0 0 20px black;
+}
+
+.basket {
+    background-color: rgba(0, 230, 0, 0.5);
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-decoration: underline;
+    height: 100%;
+    border: 6px double green;
+    padding: 20px;
+    gap: 12px;
+}
+
+.delete-product {
+    font-size: 20px;
+    background-color: red;
+    color: white;
+    border: 1px solid black;
+    cursor: pointer;
+    padding: 1px 6px;
+    transition-duration: 0.3s;
+}
+
+.delete-product:hover {
+    background-color: black;
+    font-size: 18px;
 }
